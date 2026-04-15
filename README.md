@@ -39,11 +39,11 @@ Set whatever currency rates you need. Great for using the silver standard, which
 
 World Currencies 5e works by patching the currency names and rates set by the D&D 5e System. Any module that pulls names and rates from the D&D 5e System will display them correctly.
 
-| **Name** | Works | Notes |
-| --- | --- | --- |
-| [D&D 5e System](https://github.com/foundryvtt/dnd5e) | :heavy_check_mark: | Fully Compatible |
-| [Item Piles for D&D 5e](https://github.com/fantasycalendar/FoundryVTT-ItemPilesDND5e) | :heavy_check_mark: | If installed, a button is added to sync settings |
-| [Tidy 5e Sheets](https://github.com/kgar/foundry-vtt-tidy-5e-sheets) | :heavy_check_mark: | Should be working out of the box |
+| **Name** | FVTT v13 | FVTT v14 | Notes |
+| --- | --- | --- | --- |
+| [D&D 5e System](https://github.com/foundryvtt/dnd5e) | :heavy_check_mark: | :heavy_check_mark: |
+| [Item Piles for D&D 5e](https://github.com/fantasycalendar/FoundryVTT-ItemPilesDND5e) | :heavy_check_mark: (D&D 5e system version <= 5.2.5) | Item Piles not available yet | Use button to sync settings |
+| [Tidy 5e Sheets](https://github.com/kgar/foundry-vtt-tidy-5e-sheets) | :heavy_check_mark: | :heavy_check_mark: |
 
 ## Contributing
 

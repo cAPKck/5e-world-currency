@@ -6,8 +6,8 @@
     "authors": [{ "name": "cstby" }, { "name": "cAPKck" }],
     "library": false,
     "compatibility": {
-        "minimum": "13",
-        "verified": "13.346"
+        "minimum": "13.341",
+        "verified": "14.360"
     },
     "esmodules": ["scripts/main.js"],
     "styles": [],
@@ -25,7 +25,7 @@
                 "type": "system",
                 "compatibility": {
                     "minimum": "5.0.0",
-                    "verified": "5.0.4"
+                    "verified": "5.3.1"
                 }
             }
         ]
